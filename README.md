@@ -1,1 +1,10 @@
-# ToDo_Manager_CLI_0309
+# 🗂 Todo Manager CLI
+
+Simple CLI task manager.
+
+## Features
+- Add tasks
+- Show tasks
+
+## Run
+python main.py
